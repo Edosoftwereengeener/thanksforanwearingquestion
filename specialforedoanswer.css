@@ -1,0 +1,11 @@
+* {
+    padding: 10px;
+    margin: 5px;
+ }
+body {
+    background-image: url(../bom/img/messi.jpg);
+    background-color:rgb(3, 10, 10);
+}
+p {
+    color: rgb(250, 242, 242);
+}
